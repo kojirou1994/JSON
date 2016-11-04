@@ -9,8 +9,5 @@
 import PackageDescription
 
 let package = Package(
-	name: "JSON",
-	exclude: [
-		"Build"
-	]
+	name: "JSON"
 )
